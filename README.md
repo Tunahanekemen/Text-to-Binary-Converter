@@ -22,6 +22,8 @@ Proje temel olarak şu bitwise (bit düzeyinde) operatörleri kullanır:
 * C derleyicisi (GCC, Clang vb.)
 
 ### Derleme
+Releases kısmından exe'yi indirin yada
+
 Terminal veya komut satırını açın ve kodun bulunduğu dizinde şu komutu çalıştırın:
 ```bash
 gcc Bn2ch.c -o converter
